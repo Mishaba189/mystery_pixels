@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475451559097",
+    "project_id": "mystery-pixels",
+    "storage_bucket": "mystery-pixels.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475451559097:android:37d178449cd8289db25f68",
+        "android_client_info": {
+          "package_name": "com.example.mystery_pixels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3zfYXUczlFrcDgJmRmisZzJxdkGQbcYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
